@@ -1,5 +1,3 @@
-![enter image description here](https://lh3.googleusercontent.com/tvbX8oLWPbJqCSL2yJOxxoQJFp3KfC11_7TcdjVWuLCcC_O20diDib0flzuQBBlc21-zLrv-NDs)
-
 # Please follow the instructions! - is req. for the workshop
 ## Get started - Mac OSX  (Windows below)
 
