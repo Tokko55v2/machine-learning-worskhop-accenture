@@ -85,6 +85,6 @@ pip3 install jupyterlab
 # Linux - is coming
 ### but
 
-![enter image description here](https://xjockalbanyny.files.wordpress.com/2014/10/oykrrbj.png)
+![enter image description here](http://m.quickmeme.com/img/f0/f073f4a2fbeb240a61d1795f39e2707da0c478193bb73c676834ebe29fd560e2.jpg)
 
 
