@@ -28,8 +28,10 @@ install it without brew:
 ```sudo pip install -upgrade pip ```
 ***
 ### Python packages (use pip or pip3)
-- panda v0.24.1 *```python3 -m pip install --upgrade pandas```
--  nltk 3.4.3 [[details](https://github.com/nltk/nltk)] ```pip3 install nltk ```
+- panda v0.24.1
+ ```python3 -m pip install --upgrade pandas```
+-  nltk 3.4.3 [[details](https://github.com/nltk/nltk)] 
+```pip3 install nltk ```
 -  numpy 1.16.1 ```pip3 install numpy```
 - scikit-learn 0.20.3 [[details](https://github.com/scikit-learn/scikit-learn)] ```pip3 install -U scikit-learn```
 - unicode 1.1.1 [[details](https://github.com/avian2/unidecode)] ```pip3 install unidecode```
