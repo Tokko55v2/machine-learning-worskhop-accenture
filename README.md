@@ -43,7 +43,7 @@ install it without brew:
 ```pip install notebook```
 
 #### Usage - Running Jupyter notebook
-##### Running in a local installation - lunch with:
+##### Running in a local installation - launch with:
 ```jupyter notebook```
 
 Additional information:
