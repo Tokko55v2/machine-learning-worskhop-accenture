@@ -1,5 +1,7 @@
 ![enter image description here](https://lh3.googleusercontent.com/tvbX8oLWPbJqCSL2yJOxxoQJFp3KfC11_7TcdjVWuLCcC_O20diDib0flzuQBBlc21-zLrv-NDs)
-# Get started - Mac OSX  (Windows below)
+
+# Please follow the instructions! - is req. for the workshop
+## Get started - Mac OSX  (Windows below)
 
 ### Install Homebrew -TERMINAL COMMANS
 ```
@@ -26,27 +28,15 @@ install it without brew:
 ```sudo pip install -upgrade pip ```
 ***
 ### Python packages (use pip or pip3)
-- panda v0.24.1
---  ```python3 -m pip install --upgrade pandas```
-* nltk 3.4.3 [[details](https://github.com/nltk/nltk)]
---```pip3 install nltk ```
--  numpy 1.16.1
--- ```pip3 install numpy```
-- scikit-learn 0.20.3 [[details](https://github.com/scikit-learn/scikit-learn)]
--- ```pip3 install -U scikit-learn```
-- unicode 1.1.1 [[details](https://github.com/avian2/unidecode)]
--- ```pip3 install unidecode```
-- lime 0.1.1.36
--- ```pip3 install lime```
-
-- eli5 0.10.1
--- ```pip3 install eli5```
-
-- matplotlib 3.1.0
--- ```python3 -m pip install -U matplotlib```
-
-- xlrd 1.2.0
--- ```pip install xlrd```
+- panda v0.24.1 ```python3 -m pip install --upgrade pandas```
+-  nltk 3.4.3 [[details](https://github.com/nltk/nltk)] ```pip3 install nltk ```
+-  numpy 1.16.1 ```pip3 install numpy```
+- scikit-learn 0.20.3 [[details](https://github.com/scikit-learn/scikit-learn)] ```pip3 install -U scikit-learn```
+- unicode 1.1.1 [[details](https://github.com/avian2/unidecode)] ```pip3 install unidecode```
+- lime 0.1.1.36 ```pip3 install lime```
+- eli5 0.10.1 ```pip3 install eli5```
+- matplotlib 3.1.0 ```python3 -m pip install -U matplotlib```
+- xlrd 1.2.0 ```pip install xlrd```
 
 ***
 ### Install Jupyter:
@@ -59,7 +49,7 @@ install it without brew:
 Additional information:
 [https://github.com/jupyter/notebook](https://github.com/jupyter/notebook)
 ***
-# Windows guide
+## Windows guide
 
 ### Install Python 3.7X
 [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
@@ -71,28 +61,16 @@ Additional information:
 [https://github.com/pypa/get-pip](https://github.com/pypa/get-pip)
 ***
 ### Python packages (use pip or pip3)
-- pandas 0.24.1
- -- ```
+- pandas 0.24.1 ```
 python3 -m pip install --upgrade pandas```
-- nltk 3.4.3 [[details](https://github.com/nltk/nltk)]
---```pip3 install nltk ```
-- numpy 1.17.3
---```pip3 install numpy```
-
--  scikit-learn 0.20.3
- -- ```pip3 install -U scikit-learn```
- - Unicode 1.1.1
- -- ```pip3 install Unidecode```
- 
-- lime 0.1.1.36
--- ```pip3 install lime```
-- eli5 0.10.1
--- ```pip3 install eli5```
-
-- matplotlib
---```python3 -m pip install -U matplotlib``` 
-- xlrd 1.2.0
--- ```pip install xlrd```
+- nltk 3.4.3 [[details](https://github.com/nltk/nltk)] ```pip3 install nltk ```
+- numpy 1.17.3 ```pip3 install numpy```
+-  scikit-learn 0.20.3 ```pip3 install -U scikit-learn```
+- Unicode 1.1.1 ```pip3 install Unidecode```
+- lime 0.1.1.36 ```pip3 install lime```
+- eli5 0.10.1 ```pip3 install eli5```
+- matplotlib ```python3 -m pip install -U matplotlib``` 
+- xlrd 1.2.0 ```pip install xlrd```
 
 ***
 ### Install Jupyter
@@ -108,3 +86,5 @@ pip3 install jupyterlab
 ### but
 
 ![enter image description here](https://xjockalbanyny.files.wordpress.com/2014/10/oykrrbj.png)
+
+
