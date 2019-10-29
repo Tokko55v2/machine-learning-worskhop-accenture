@@ -1,4 +1,4 @@
-# Please follow the instructions! - is req. for the workshop
+# Please follow the instructions below! - is req. for the workshop
 ## Get started - Mac OSX  (Windows below)
 
 ### Install Homebrew -TERMINAL COMMANS
