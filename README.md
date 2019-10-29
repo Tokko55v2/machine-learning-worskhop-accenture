@@ -23,6 +23,7 @@ install it without brew:
 ***
 ### Install PIP
 ```sudo easy_install pip```
+##### next step
 ```sudo pip3 install --upgrade pip ```
 ***
 ### Python packages (use pip or pip3)
