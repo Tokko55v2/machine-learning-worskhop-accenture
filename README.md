@@ -23,7 +23,7 @@ install it without brew:
 ***
 ### Install PIP
 ```sudo easy_install pip```
-```sudo pip install -upgrade pip ```
+```sudo pip3 install --upgrade pip ```
 ***
 ### Python packages (use pip or pip3)
 - panda v0.24.1
@@ -35,12 +35,12 @@ install it without brew:
 - unicode 1.1.1 [[details](https://github.com/avian2/unidecode)] ```pip3 install unidecode```
 - lime 0.1.1.36 ```pip3 install lime```
 - eli5 0.10.1 ```pip3 install eli5```
-- matplotlib 3.1.0 ```python3 -m pip install -U matplotlib```
-- xlrd 1.2.0 ```pip install xlrd```
+- matplotlib 3.1.0 ```pip3 install -U matplotlib```
+- xlrd 1.2.0 ```pip3 install xlrd```
 
 ***
 ### Install Jupyter:
-```pip install notebook```
+```pip3 install notebook```
 
 #### Usage - Running Jupyter notebook
 ##### Running in a local installation - launch with:
@@ -69,13 +69,13 @@ python3 -m pip install --upgrade pandas```
 - Unicode 1.1.1 ```pip3 install Unidecode```
 - lime 0.1.1.36 ```pip3 install lime```
 - eli5 0.10.1 ```pip3 install eli5```
-- matplotlib ```python3 -m pip install -U matplotlib``` 
-- xlrd 1.2.0 ```pip install xlrd```
+- matplotlib ```pip3 install -U matplotlib``` 
+- xlrd 1.2.0 ```pip3 install xlrd```
 
 ***
 ### Install Jupyter
 ```
-pip install jupyterlab
+pip3 install jupyterlab
 ```
 ##### OR
 ```
